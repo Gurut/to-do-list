@@ -9,3 +9,5 @@ I have a lot of completed and ongoing software projects. This project is a to-do
 
 Kindly regards,
 Samet Tonyali
+
+Don't worry! I will be back ;)
